@@ -19,3 +19,6 @@ const myShows = [null, "Hannibal", "Dexter", "Family Guy", "911", "King of Queen
 for(let i = 1; i < myShows.length; i++){
   console.log("My #" + i + " favorite tv show is " + myShows[i]);
 }
+for(let i = 0; i < 10; i++) {
+  console.log("Hello");
+}
